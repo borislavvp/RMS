@@ -19,7 +19,7 @@ The system contains several microservices which support the above mentioned acti
  - https://github.com/borislavvp/RMS-Users-Microservice - Service for handling authentication and authorization.
  
  - https://github.com/borislavvp/RMS-Orders-Microservice - Service for storing and managing orders.
- - https://github.com/borislavvp/RMS-Orders-Status-Service - Service for tracking of the status for orders and notifying responsible applications.
+ - https://github.com/borislavvp/RMS-Orders-Status-Service - Service for tracking and notifying of order's status changes.
  - https://github.com/borislavvp/RMS-Products-Microservice - Service for storing and managing products.
  
 ## Overview
