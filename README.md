@@ -4,7 +4,7 @@
 
 The project was developed in March 2021 in collaboration with 5 other students at Fontys University of Applied Sciences.
 
-## [Documentation](https://drive.google.com/drive/u/0/folders/1yVzW5Owb08zECva5HKT4sn26PLqFrN51)
+## [Documentation](https://drive.google.com/drive/folders/1yVzW5Owb08zECva5HKT4sn26PLqFrN51?usp=sharing)
 
 ## System
 
